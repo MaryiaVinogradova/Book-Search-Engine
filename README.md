@@ -13,8 +13,8 @@
   This is book search 
 
 ## Installation & Usage
-  For installation and usage open VS code terminal and run `npm i`. After your dependences are installed - run `npm start` to see message `Server is running on port 3000!` (you can use your port). Then click install button and use the app. 
-  The app is running in the brouser - that you can use it from there. 
+  For installation and usage open VS code terminal and run `npm i`. After your dependences are installed - run `npm run develop` to open the app in your browser.
+  In there you can do your book search, login and save your books. 
 
 ## Contributing
   Any suggestions are welcome. 
@@ -31,8 +31,6 @@
 
 
 
-  Movie:
-  https://drive.google.com/file/d/15XktneVktuBTM8se59K1pu-8EPK3lLL2/view?usp=sharing
 
   Link to repo:
-  https://github.com/MaryiaVinogradova/E-Commerce-Back-End.git
+  https://github.com/MaryiaVinogradova/Book-Search-Engine.git
